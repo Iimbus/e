@@ -23,6 +23,8 @@
   <img width="405" height="405" alt="Untitled185_20250831211748" src="https://github.com/user-attachments/assets/43529a2e-8b7a-4162-a47a-4e93a52f5577" />
 </div>
 
+<img width="1560" height="261" alt="Untitled189_20250901212449" src="https://github.com/user-attachments/assets/b0f576a4-7573-4bad-a1f4-810e8522e41c" />
+
 <!-- divider bottom side -->
 
 <img width="1560" height="261" alt="Untitled189_20250901181217" src="https://github.com/user-attachments/assets/dce7ba4a-64c9-4bfd-b6ec-5db9bb8c4d23" />
