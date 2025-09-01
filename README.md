@@ -12,6 +12,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8D2AC&center=true&vCenter=true&width=500&lines=%C2%A1Por+alcanzar+la+estrella+inalcanzable!)](https://git.io/typing-svg)
 
+<!-- links -->
+
+[![blinkiesCafe-HW](https://github.com/user-attachments/assets/096c1b6d-7ccc-4efa-bcd2-cbc30989c64a)](https://quixote.atabook.org) [![blinkiesCafe-jt](https://github.com/user-attachments/assets/98b6cee5-cc77-4d6e-85de-7afc2e658ae8)](https://en.pronouns.page/@limbuscompanybus)
+
+
 <!-- image filler -->
 
 <div align="center">
