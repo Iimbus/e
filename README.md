@@ -14,8 +14,7 @@
 
 <!-- links -->
 
-[![blinkiesCafe-HW](https://github.com/user-attachments/assets/096c1b6d-7ccc-4efa-bcd2-cbc30989c64a)](https://quixote.atabook.org) [![blinkiesCafe-jt](https://github.com/user-attachments/assets/98b6cee5-cc77-4d6e-85de-7afc2e658ae8)](https://en.pronouns.page/@limbuscompanybus)
-
+### [atabook](https://quixote.atabook.org) , [pronouns](https://en.pronouns.page/limbuscompanybus)
 
 <!-- image filler -->
 
